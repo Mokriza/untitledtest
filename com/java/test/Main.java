@@ -6,5 +6,6 @@ public class Main {
         System.out.println("hoho");
         System.out.println("hehe");
         System.out.println("hoho");
+        System.out.println("haha");
     }
 }
