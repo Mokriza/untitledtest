@@ -8,5 +8,7 @@ public class Main {
         System.out.println("hoho");
 
         System.out.println("THIS IS MEAN TO BE FORCE PUSHED");
+
+        System.out.println("THIS IS MEAN TO BE FORCE PUSHED");
     }
 }
