@@ -6,5 +6,7 @@ public class Main {
         System.out.println("hoho");
         System.out.println("hehe");
         System.out.println("hoho");
+
+        System.out.println("THIS IS FORCED FROM GITHUB REDACTOR");
     }
 }
